@@ -1,4 +1,3 @@
-# Write your k-means unit tests here
 import pytest
 import numpy as np
 from scipy.spatial.distance import cdist
